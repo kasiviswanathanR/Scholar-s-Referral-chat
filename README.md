@@ -20,12 +20,15 @@ Scholar's Referral Chat is an AI-powered platform designed to assist scholars, r
 - **Integrated Chat**: Exchange ideas, ask questions, and share insights in context.
 
 ### 4. AI Summarization and Insights
-- **Summarization**: Generate concise summaries of lengthy documents.
+- **Summarization**: Generate answers from your questions towards of lengthy documents.
 - **Insights**: Get analysis on document structure, key themes, and findings.
 
 ### 5. Collaborative Annotations
 - **Annotate Together**: Collaboratively annotate and mark-up documents.
 - **Comments and Highlights**: Add comments and highlights for enhanced understanding.
+
+### 6. AI Model
+- **Considerations**: You can use any model with your relevance of project
 
 ## How to Use
 
