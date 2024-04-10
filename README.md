@@ -54,10 +54,6 @@ Scholar's Referral Chat is an AI-powered platform designed to assist scholars, r
    - Collaborate with peers on annotations and mark-ups.
    - Gain new insights from summaries and recommendations.
 
-## Demo
-
-![Scholar's Referral Chat Demo](demo.gif)
-
 ## Technologies Used
 
 - Python
