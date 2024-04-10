@@ -1,6 +1,4 @@
-Certainly! Below is an example README file for "Scholar's Referral Chat" that you can use on GitHub:
 
----
 
 # Scholar's Referral Chat
 
@@ -67,6 +65,3 @@ Scholar's Referral Chat is an AI-powered platform designed to assist scholars, r
 - Flask
 - AI/ML models (for document analysis and summarization)
 
-
-
-Feel free to customize this README file further based on your project's specific details and needs. Make sure to include proper instructions for installation, usage, and contributions.
